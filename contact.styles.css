@@ -1,0 +1,25 @@
+body{
+    background-image: url(schrecksee.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+.haut{
+  
+}
+
+table{
+    margin: auto;
+    margin-top: 200px;
+}
+
+.form{
+    margin: auto;
+    margin-bottom: 300px;
+}
+
+.cab{
+    background-color: gainsboro;
+    opacity: 0.6;
+}
